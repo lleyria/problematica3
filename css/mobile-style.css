@@ -97,7 +97,7 @@ img{
 }
 h4{
     font-family:'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 25px;
+    font-size: 28px;
     font-weight: bolder;
 }
 #author, a{
@@ -134,7 +134,7 @@ p{
 }
 h5{
     font-family:'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bolder;
 }
 .last-articles{
@@ -198,6 +198,7 @@ footer{
     width: 90%;
     margin: auto;
     display: flex;
+    justify-content: space-between;
 }
 #follow h6{
     font-size: 18px;
@@ -231,3 +232,4 @@ footer{
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
 }
+

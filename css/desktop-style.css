@@ -1,0 +1,29 @@
+@media (min-width: 768px){
+    .container{
+        display: flex;
+    }
+    .main-article{
+        width: 45%;
+        margin: 10px;
+        padding: 0 20px;
+    }
+    .secondary-articles{
+        border-right: #fd345b 3px solid;
+        padding: 0px 40px 0px 20px;
+        margin: 0px;
+        width: 40%;
+    }
+    .last-articles{
+        border-top: none;
+    }
+    .last-articles img {
+        width: 100%;
+    }
+    }
+    #news7{
+        border-bottom: none;
+    }
+    #container3{
+        display: flex;
+        justify-content: center;
+    }
