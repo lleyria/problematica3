@@ -4,13 +4,13 @@
     }
     .main-article{
         width: 45%;
-        margin: 10px;
+        margin: 5px;
         padding: 0 20px;
     }
     .secondary-articles{
         border-right: #fd345b 3px solid;
         padding: 0px 40px 0px 20px;
-        margin: 0px;
+        margin: 5px;
         width: 40%;
     }
     .last-articles{

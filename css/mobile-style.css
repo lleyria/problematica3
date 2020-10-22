@@ -5,11 +5,13 @@
 header{
     background-image: url(../images/dota2-banner.png);
     text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #logo{
     width: 20%;
     height: auto;
-    margin: 10px; 
+    margin: 15px; 
 }
 h1{
     font-family:  'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -119,6 +121,7 @@ figcaption{
     font-size: 11px;
 }
 p{
+    padding: 10px 0;
     text-align: justify;
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 13px;
@@ -157,6 +160,9 @@ h5{
     margin: 0 10px;
 }
 #suscribe{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
     width: 35%;
     border-radius: 5px;
     background-color: 	#fd345b;
