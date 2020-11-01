@@ -1,9 +1,24 @@
 @media (min-width: 768px){
+    h1{
+        font-size: 14px;
+        padding: 4px;
+    }
+    h2{
+        font-size: 50px;
+        padding: 20px;
+    }
+    #suscribe-front{
+        font-size: 16px;
+    }
+    #showcase p{
+        padding: 5px;
+        font-size: 16px;
+    }
     .container{
         display: flex;
     }
     .main-article{
-        width: 45%;
+        width: 50%;
         margin: 5px;
         padding: 0 20px;
     }
@@ -11,14 +26,13 @@
         border-right: #fd345b 3px solid;
         padding: 0px 40px 0px 20px;
         margin: 5px;
-        width: 40%;
+        width: 50%;
     }
     .last-articles{
         border-top: none;
     }
     .last-articles img {
-        width: 100%;
-    }
+        width: 80%;
     }
     #news7{
         border-bottom: none;
@@ -27,3 +41,4 @@
         display: flex;
         justify-content: center;
     }
+}

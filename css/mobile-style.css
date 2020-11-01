@@ -45,9 +45,9 @@ h3{
     background-color: 	#fd345b;
     color: whitesmoke;
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 10px;
     height: 25px;
-    margin-top: 10px;
+    margin-top: 25px;
     margin-bottom: 5px;
 }
 #search{
@@ -158,30 +158,6 @@ h5{
     border-bottom: 3px solid #fd345b;
     padding: 10px 10px;
     margin: 0 10px;
-}
-#suscribe{
-    display: flex;
-    flex-direction: column;
-    align-content: flex-end;
-    width: 35%;
-    border-radius: 5px;
-    background-color: 	#fd345b;
-    color: whitesmoke;
-    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 12px;
-    padding: 20px;
-    margin: auto;
-}
-label{
-    display: flex;
-}
-#suscribe-buton{
-    margin: 20px 0;
-    background-color: #fd345b;
-    color:whitesmoke;
-    border-radius: 5px;
-    border: whitesmoke 5px solid;
-    padding: 3px;  
 }
 .facebook{
     width: 35px;
