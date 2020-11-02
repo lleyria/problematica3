@@ -179,4 +179,4 @@ function handleOnKeydown(e){
     newTitle.innerText = 'Hola '+ e.target.value;
 }
 fullName.addEventListener('focus', handleOnFocus11);
-fullName.addEventListener('change', handleOnKeydown);
+fullName.addEventListener('keydown', handleOnKeydown);
