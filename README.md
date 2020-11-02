@@ -4,7 +4,7 @@ For fifth "Problematica Semanal" I create a html structure, css style and js log
 One of the determinate things in which i focused was the internalization of the so called "Buenas Prácticas" of the both css and html coding, these good practices suchs as proxily, coherence and adaptability are not strictly requiered to be a programer but neccesary to be a good programer and make individual and group work more efficient.
 
 Git hub pages main web link: https://lleyria.github.io/problematica3/
-Git hub pages suscription form link : https://lleyria.github.io/problematica3/suscription-form.html/
+Git hub pages suscription form link : https://lleyria.github.io/problematica3/suscription-form.html
 
 Contributors
 Leyria, Lisandro: l.leyria93@gmail.com 
